@@ -58,4 +58,6 @@ Código fuente en Python 3.
 
 Criterios greedy y análisis de complejidad documentados.
 
-Nota: las evidencias deben corresponder a los envíos reales del estudiante en LeetCode.
+![Accepted — Lemonade Change](evidencias/lemonade-change-accepted.png)
+
+![Accepted — Assign Cookies](evidencias/assign-cookies-accepted.png)
